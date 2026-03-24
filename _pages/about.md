@@ -18,7 +18,3 @@ Hi, I am a first-year undergraduate student majoring in Electrical Engineering (
 
 ## 🌱 Research Interests
 * World Models: Physical video world model, empower AI to comprehend the fundamental principles of the 3D world.
-
-## 📫 Connect
-* Email: yu601011@gmail.com
-* GitHub: https://github.com/Space-Holmes
