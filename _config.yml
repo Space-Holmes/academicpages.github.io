@@ -26,7 +26,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Haoyu Yang(杨皓宇)"
+  name             : "Haoyu Yang"
+                     '杨皓宇'
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at CityU"
   location         : "Hong Kong"
